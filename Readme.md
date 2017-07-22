@@ -4,8 +4,8 @@
 * English (en)
 * Nepali (np)
 * Devanagari Nepali (np2)
-
-Here, English refers to texts in English Language. Nepali refers to the texts inRoman Typed Nepali Language, and Devanagari Nepali refers to texts in Devangari Nepali langauge.
+ 
+Here, English refers to texts in English Language. Nepali refers to the texts in Roman Typed Nepali Language, and Devanagari Nepali refers to texts in Devangari Nepali langauge.
 
 ## Dataset
 * The NLTK based corpus was used as the dataset for English
